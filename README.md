@@ -8,8 +8,9 @@
 
    ```
 
-3. Do some changes and save -> .add + commit (push origin)
-4. npm run dev
-5. npm run build
-6. npm run preview
-7. npm run deploy
+3. Do some changes
+4. use Git or GitHubDesktop to save -> .add + commit (push origin)
+5. npm run dev
+6. npm run build
+7. npm run preview
+8. npm run deploy
