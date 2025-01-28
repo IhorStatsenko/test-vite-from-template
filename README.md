@@ -8,7 +8,7 @@
 
    ```
 
-3. Do some changes and save -> .add + commit
+3. Do some changes and save -> .add + commit (push origin)
 4. npm run dev
 5. npm run build
 6. npm run preview
